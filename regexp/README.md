@@ -1,6 +1,5 @@
-# 包名
+# regexp Package
 
-函数列表
+Functions List
 
-- xxx1
-- xxx2
+- [func Match(pattern string, b []byte) (matched bool, err error)](Match.md)
